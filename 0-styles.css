@@ -1,0 +1,10 @@
+body {
+    background-image: url(favicon.png);
+    background-color: #ffcf9;
+}
+
+h1 {
+text-decoration: solid;
+font-size: 200px;
+}
+
